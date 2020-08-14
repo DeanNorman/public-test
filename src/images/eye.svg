@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="34px" viewBox="0 0 36 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_eye" transform="translate(1.000000, 1.000000)" fill-rule="nonzero" stroke="#13C6B9" stroke-width="2.1384">
+            <ellipse id="Oval" cx="16.92875" cy="22.7101989" rx="6.34125" ry="6.31849432"></ellipse>
+            <ellipse id="Oval" fill="#13C6B9" cx="17.0890625" cy="22.8791164" rx="1" ry="1"></ellipse>
+            <path d="M18.425,3.04477273 C18.425,6.91159916 21.5352219,10.0462813 25.371875,10.0462813" id="Path" stroke-linecap="round" stroke-linejoin="round" transform="translate(21.898438, 6.545527) scale(-1, 1) translate(-21.898438, -6.545527) "></path>
+            <path d="M25.55,3.04477273 C25.55,6.91159916 28.6602219,10.0462813 32.496875,10.0462813" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M18.425,10.1442045 C18.425,14.011031 21.5352219,17.1457132 25.371875,17.1457132" id="Path" stroke-linecap="round" stroke-linejoin="round" transform="translate(21.898438, 13.644959) scale(-1, -1) translate(-21.898438, -13.644959) "></path>
+            <path d="M25.55,10.1442045 C25.55,14.011031 28.6602219,17.1457132 32.496875,17.1457132" id="Path" stroke-linecap="round" stroke-linejoin="round" transform="translate(29.023438, 13.644959) scale(1, -1) translate(-29.023438, -13.644959) "></path>
+            <path d="M10.5875,0.743577586 C10.5875,3.32146188 12.6211066,5.41125 15.1296875,5.41125" id="Path" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.858594, 3.077414) scale(-1, 1) translate(-12.858594, -3.077414) "></path>
+            <path d="M15.1296875,0.743577586 C15.1296875,3.32146188 17.1632941,5.41125 19.671875,5.41125" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M10.5875,5.50101293 C10.5875,8.07889722 12.6211066,10.1686853 15.1296875,10.1686853" id="Path" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.858594, 7.834849) scale(-1, -1) translate(-12.858594, -7.834849) "></path>
+            <path d="M15.1296875,5.50101293 C15.1296875,8.07889722 17.1632941,10.1686853 19.671875,10.1686853" id="Path" stroke-linecap="round" stroke-linejoin="round" transform="translate(17.400781, 7.834849) scale(1, -1) translate(-17.400781, -7.834849) "></path>
+            <path d="M22.0537191,14.6590655 C20.4129388,14.2278024 18.7275373,14.0121708 16.9975143,14.0121708 C10.896697,14.0121708 5.35078023,16.6937129 0.359763965,22.0567969 C0.00803162653,22.434748 0.00803161454,23.0199208 0.359762958,23.3978729 C5.35077948,28.7609576 10.8966966,31.4425 16.9975143,31.4425 C23.0736821,31.4425 28.5994242,28.7825831 33.5747408,23.4627493 C33.9463602,23.0654013 33.9252334,22.4422791 33.5275549,22.0709688 C33.5244684,22.068087 33.5213634,22.065225 33.5182401,22.062383 C31.1455866,19.9034804 29.4245004,18.4916645 28.3549816,17.8269353" id="Path" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

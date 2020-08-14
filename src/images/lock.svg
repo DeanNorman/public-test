@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="114px" viewBox="0 0 114 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-2.86313797%" y1="-8.37726272%" x2="144.643348%" y2="154.219076%" id="linearGradient-1">
+            <stop stop-color="#13C6B9" offset="0%"></stop>
+            <stop stop-color="#26B1C9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="10.9906944%" y1="17.7734393%" x2="82.0081345%" y2="90.9801566%" id="linearGradient-2">
+            <stop stop-color="#13C6B9" offset="0%"></stop>
+            <stop stop-color="#26B1C9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.8557898%" y1="24.9114452%" x2="85.1622647%" y2="83.0414677%" id="linearGradient-3">
+            <stop stop-color="#13C6B9" offset="0%"></stop>
+            <stop stop-color="#26B1C9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_locked">
+            <path d="M70.5633803,43.8605538 L70.5633803,26.9964243 C70.5633803,19.6553805 64.0985915,13.6478873 56.1971831,13.6478873 C48.2957746,13.6478873 41.8309859,19.6553805 41.8309859,26.9964243 L41.8309859,43.8605538" id="Path" stroke="url(#linearGradient-1)" stroke-width="5.76" stroke-linecap="round" stroke-linejoin="round"></path>
+            <ellipse id="Oval" fill="url(#linearGradient-2)" fill-rule="nonzero" cx="56.1971831" cy="65.6159457" rx="27.2957746" ry="27.5108149"></ellipse>
+            <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2.88" fill="url(#linearGradient-3)" stroke-linecap="round" stroke-linejoin="round" cx="56.1971831" cy="65.6159457" rx="11.4929577" ry="11.583501"></ellipse>
+            <path d="M56.1971831,54.0324447 L56.1971831,48.2406942" id="Path" stroke="#FFFFFF" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M56.1971831,82.9911972 L56.1971831,77.1994467" id="Path" stroke="#FFFFFF" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M64.3241408,73.8069288 L68.3869014,77.9016964" id="Path" stroke="#FFFFFF" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M44.0074648,77.9016964 L48.0702254,73.8069288" id="Path" stroke="#FFFFFF" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M64.3241408,57.4249625 L68.3869014,53.3301949" id="Path" stroke="#FFFFFF" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M44.0074648,53.3301949 L48.0702254,57.4249625" id="Path" stroke="#FFFFFF" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M67.6901408,65.6159457 L73.4366197,65.6159457" id="Path" stroke="#FFFFFF" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M38.9577465,65.6159457 L44.7042254,65.6159457" id="Path" stroke="#FFFFFF" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></path>
+            <ellipse id="Oval" fill="#FFFFFF" cx="56.1971831" cy="65.6159457" rx="5.74647887" ry="5.7917505"></ellipse>
+            <circle id="Oval" fill-rule="nonzero" cx="57" cy="57" r="57"></circle>
+        </g>
+    </g>
+</svg>

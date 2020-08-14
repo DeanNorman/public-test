@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184px" height="184px" viewBox="0 0 184 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="61" cy="61" r="61"></circle>
+        <filter x="-44.7%" y="-34.0%" width="189.3%" height="189.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="13" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="10.9906944%" y1="17.7734393%" x2="82.0081345%" y2="90.9801566%" id="linearGradient-3">
+            <stop stop-color="#13C6B9" offset="0%"></stop>
+            <stop stop-color="#26B1C9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Terms-contract" transform="translate(31.000000, 18.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+            <g id="quotation-mark" transform="translate(35.000000, 42.000000)" fill="url(#linearGradient-3)">
+                <path d="M5.11801493,38.60025 C4.675,38.89575 3.56289552,39.15575 2.91232836,38.444 L1.71192537,36.9565 C1.13138806,35.98925 1.83447761,35.09225 2.28967164,34.72025 C4.45374627,32.9515 6.02738806,31.58325 7.00932836,30.6155 C8.93489552,28.62025 10.3583284,26.623 11.2981493,24.63175 C11.5130597,24.1765 10.9644925,23.8875 10.6795522,23.7955 C3.58344776,21.504 0.0342537313,17.46425 0.0342537313,11.677 C0.0342537313,8.26725 1.18365672,5.4965 3.48119403,3.3665 C5.77974627,1.23525 8.65908955,0.17025 12.1184627,0.17025 C15.2002836,0.17025 17.931194,1.555 20.3096716,4.3255 C22.6351194,6.935 23.7969552,9.75925 23.7969552,12.79575 C23.797209,21.695 17.5711493,30.29625 5.11801493,38.60025 Z M32.1249254,38.60025 C31.6819104,38.89575 30.569806,39.15575 29.9192388,38.444 L28.7188358,36.9565 C28.1382985,35.98925 28.8413881,35.09225 29.2965821,34.72025 C31.460403,32.9515 33.0342985,31.58325 34.0162388,30.6155 C35.941806,28.62025 37.3652388,26.623 38.3053134,24.63175 C38.5202239,24.1765 37.9716567,23.8875 37.6867164,23.7955 C30.5906119,21.504 27.0414179,17.46425 27.0414179,11.677 C27.0414179,8.26725 28.1908209,5.4965 30.4883582,3.3665 C32.7871642,1.23525 35.6662537,0.17025 39.1256269,0.17025 C42.2074478,0.17025 44.9383582,1.555 47.3168358,4.3255 C49.6420299,6.935 50.8041194,9.75925 50.8041194,12.79575 C50.8041194,21.695 44.5780597,30.29625 32.1249254,38.60025 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

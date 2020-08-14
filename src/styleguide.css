@@ -1,0 +1,107 @@
+/* Fonts */
+
+@font-face {
+   font-family: "CircularStd-Book";
+   src: url('../fonts/CircularStd-Book.otf') format("opentype");
+ }
+ @font-face {
+   font-family: "CircularStd-Bold";
+   src: url('../fonts/CircularStd-Bold.otf') format("opentype");
+ }
+ @font-face {
+   font-family: "CircularStd-Medium";
+   src: url('../fonts/CircularStd-Medium.otf') format("opentype");
+ }
+ @font-face {
+   font-family: "CircularStd-Black";
+   src: url('../fonts/CircularStd-Black.otf') format("opentype");
+ }
+ @font-face {
+   font-family: "ProximaNova-Semibold";
+   src: url('../fonts/Mark Simonson - Proxima Nova Semibold-webfont.ttf') format("truetype");
+ }
+
+/* --- Colors --- */
+/* Primary Colours  */
+
+.thanos { color: #434b6b; };
+.cheshire { color: #6a678D; }
+.bulbasaur { color: #27C5B8; }
+.gandalf { color: #A7B2BC; }
+.stormTrooper { color: #F1F2F3; }
+
+/* Sedconday Colors */
+
+.black { color: #000 }
+.white { color: #fff }
+.darthVader { color: #606060; }
+
+.megaman { color: #24B4C7; }
+.pikachu { color: #FFD74E; }
+.dumbledore { color: #7A71EF; }
+.kermit { color: #893E53; }
+.garfield { color: #FD924B; }
+.princessPeach { color: #FD7A7C }
+
+/* Util colors  */
+
+.wingardiumLeviosa { color: #F1F5FB; }
+.alohomora { color: #FFF2F2; }
+.expelliarmus { color: #E9F9F8; }
+.lumos { color: #FFF9EE; }
+
+/*  Globals  */
+
+body {
+   margin: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span {
+   font-family: "CircularStd", Helvetica, Arial, serif;
+}
+
+/* Layout */
+
+.container {
+   margin: 40px 50px 0 50px;
+}
+header { 
+   height: 50px;
+   padding: 10px 0 0 40px;
+   background-color: #000;
+}
+
+.siteTitle {
+
+   color: #ffffff;
+   font-size: 30px;
+   letter-spacing: 0.8px;
+}
+
+.boxModel {
+   width: 100px;
+   height: 100px;
+   outline: 2px solid black;
+
+   text-align: center;
+   
+   /* padding inside the box */
+   /* top, right, bottom, left */
+   padding: 20px 20px 20px 20px;
+   /* margin outside the box */
+   /* top, right, bottom, left */
+   margin: 50px 50px 50px 0px;
+}
+
+/* 
+
+- Learn the box model 
+- Basic Layouts with flexbox
+
+*/

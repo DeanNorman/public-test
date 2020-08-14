@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11.514393px" height="11.5409836px" viewBox="0 0 11.514393 11.5409836" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.211936796,5.64039344 C0.211936796,2.70163934 2.66234355,0.31895082 5.68595119,0.31895082 C8.70955882,0.31895082 11.1610451,2.70163934 11.1610451,5.64039344 C11.1610451,8.57914754 8.70955882,10.9618361 5.68595119,10.9618361 C2.66234355,10.9618361 0.211936796,8.57914754 0.211936796,5.64039344" id="path-1"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#B24592" offset="0%"></stop>
+            <stop stop-color="#F15F79" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-164-Copy-2">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-163"></g>
+            <path d="M0.211936796,5.64039344 C0.211936796,2.70163934 2.66234355,0.31895082 5.68595119,0.31895082 C8.70955882,0.31895082 11.1610451,2.70163934 11.1610451,5.64039344 C11.1610451,8.57914754 8.70955882,10.9618361 5.68595119,10.9618361 C2.66234355,10.9618361 0.211936796,8.57914754 0.211936796,5.64039344" id="Fill-162" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

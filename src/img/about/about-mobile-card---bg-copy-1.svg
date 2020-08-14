@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="390px" height="339px" viewBox="0 0 390 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M44.4058496,24 L345.59415,24 C350.788858,24 355,28.2111423 355,33.4058496 L355,283.59415 C355,288.788858 350.788858,293 345.59415,293 L44.4058496,293 C39.2111423,293 35,288.788858 35,283.59415 L35,33.4058496 C35,28.2111423 39.2111423,24 44.4058496,24 Z" id="path-1"></path>
+        <filter x="-18.1%" y="-17.5%" width="136.2%" height="143.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="11" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Card---bg-Copy" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="82px" viewBox="0 0 60 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="10.9906944%" y1="17.7734393%" x2="82.0081345%" y2="90.9801566%" id="linearGradient-1">
+            <stop stop-color="#13C6B9" offset="0%"></stop>
+            <stop stop-color="#26B1C9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Card---bg-Copy" fill="url(#linearGradient-1)" fill-rule="nonzero" points="0 0 60 0 60 82 0 82"></polygon>
+    </g>
+</svg>

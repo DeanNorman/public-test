@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2510.38723px" height="477.151887px" viewBox="0 0 2510.38723 477.151887" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-12.8756137%" y1="120.291385%" x2="106.274377%" y2="-33.055133%" id="linearGradient-1">
+            <stop stop-color="#B24592" offset="0%"></stop>
+            <stop stop-color="#F15F79" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.6782586%" y1="105.669099%" x2="55.6782586%" y2="26.2383409%" id="linearGradient-2">
+            <stop stop-color="#13C6B9" offset="0%"></stop>
+            <stop stop-color="#26B1C9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L2510.38723,0 C2201.85183,248.167136 1986.65064,385.541501 1864.78365,412.123093 C1809.0733,424.274617 1745.65211,448.336912 1654.49621,462.84 C1645.06537,464.340465 1639.9232,466.272548 1625.0106,467.444892 C1610.098,468.617236 1595.45561,470.594686 1580.0106,471.867788 C1547.08269,474.581971 1512.42833,476.393845 1474.2949,476.924376 C1461.23026,477.106137 1447.57648,477.155822 1433.86867,477.151649 C1394.7478,477.139739 1353.09189,476.404988 1310.0106,474.403845 C1251.83379,471.70151 1191.07768,463.451499 1126.04308,452.652128 C1066.18338,442.712076 1002.571,429.324399 934.98336,411.762033 C743.73379,362.066631 635.046418,418.535146 504.80827,398.814157 C428.5116,387.261123 276.484284,346.723286 163.44396,245 C118.695229,204.73129 64.2139091,123.064624 0,0 Z" id="path-3"></path>
+        <filter x="-1.6%" y="-8.2%" width="103.1%" height="116.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="38.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header---background" fill-rule="nonzero" transform="translate(1255.193615, 238.575944) scale(-1, 1) translate(-1255.193615, -238.575944) ">
+            <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+            <use fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+            <use fill-opacity="0.366734601" fill="#FFFFFF" xlink:href="#path-3"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

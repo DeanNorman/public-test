@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="145px" viewBox="0 0 144 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="41.4" cy="41.4" r="41.4"></circle>
+        <filter x="-65.8%" y="-50.1%" width="231.6%" height="231.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="13" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/read-only" transform="translate(30.000000, 18.000000)" fill-rule="nonzero">
+            <g id="Oval-Copy-9">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+            <g id="icon/bank-security" transform="translate(19.700000, 21.000000)">
+                <polygon id="Path-22" stroke="#F1692E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" points="3 10.3791983 41.7337782 10.3791983 22.3668891 0"></polygon>
+                <path d="M3,36.5 L40.5814433,36.5" id="Path-23" stroke="#F1692E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M0.514872188,39.5 L43.3896288,39.5" id="Path-23-Copy" stroke="#F1692E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M9.5,14 L9.5,32.8755161" id="Path-24" stroke="#F1692E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M15.4530555,26.0657576 C17.2213842,27.8967802 19.5045788,29 21.9973272,29 C24.4791502,29 26.7532523,27.9064296 28.5183181,26.0897911" id="Path" stroke="#F1692E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#F1692E" cx="17" cy="19" r="1"></circle>
+                <circle id="Oval-Copy" fill="#F1692E" cx="26" cy="19" r="1"></circle>
+                <path d="M38,14 L38,32.8755161" id="Path-24-Copy-2" stroke="#F1692E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M6.5,14 L6.5,32.8755161" id="Path-24-Copy" stroke="#F1692E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35,14 L35,32.8755161" id="Path-24-Copy-3" stroke="#F1692E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
